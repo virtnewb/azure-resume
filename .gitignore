@@ -7,4 +7,4 @@ IaC/*.tfstate
 IaC/*.tfstate.*
 
 #Sensitive Data
-IaC*.tfvars
+IaC/*.tfvars
