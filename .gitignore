@@ -1,0 +1,10 @@
+#Local terraform directories
+**/IaC/.terraform/*
+**/IaC/.terraform.lock.hcl
+
+#State files
+IaC/*.tfstate
+IaC/*.tfstate.*
+
+#Sensitive Data
+IaC*.tfvars
